@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="PerfumeStore.BLL/PerfumeStore.BLL.csproj" />
+  <Project Path="PerfumeStore.DAL/PerfumeStore.DAL.csproj" />
+  <Project Path="PerfumStore.PL/PerfumStore.PL.csproj" />
+</Solution>
